@@ -1,4 +1,5 @@
-COVID-19 Data Analysis Project
+#COVID-19 Data Analysis Project
+Python | Pandas | NumPy | Matplotlib | Seaborn | Jupyter Notebook
 
 Overview
 
